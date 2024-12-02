@@ -1,7 +1,7 @@
 # NiTT-Sec-NRD
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/nicotechtips/nitt-sec-nrd/blob/main/README.md)
 [![es](https://img.shields.io/badge/lang-es-blue.svg)](https://github.com/nicotechtips/nitt-sec-nrd/blob/main/README.es.md)
-[![Next update](https://img.shields.io/badge/Next_Update-04:30_UTC-orange)](https://github.com/nicotechtips/nitt-sec-nrd/tree/main/lists)
+[![Next update](https://img.shields.io/badge/Next_Update-06:00_UTC-orange)](https://github.com/nicotechtips/nitt-sec-nrd/tree/main/lists)
 
 Listas actualizadas diariamente de dominios recién registrados en Internet; para análisis, seguimiento y denuncia de abuso.
 
