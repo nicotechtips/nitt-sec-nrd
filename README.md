@@ -8,6 +8,6 @@ Daily updated lists of newly registered domains on the Internet; for analysis, m
 ## Features
 - Domain names sorted alphabetically, with no duplicates from the previous day.
 - Domain records are pulled from multiple sources: registrars, WHOIS APIs and web scraping.
-- Includes registrations for [989 top-level domains](https://github.com/nicotechtips/nitt-sec-nrd/blob/main/TLDs.txt):
+- Includes registrations for [989 top-level domains](https://github.com/nicotechtips/nitt-sec-nrd/blob/main/tlds.txt):
   - Some top-level domains may have a gap of up to 72 hours in their registrations.
   - Some geographic top-level domains update their records very rarely per month and may include renewals.
