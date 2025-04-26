@@ -8,6 +8,6 @@ Listas actualizadas diariamente de dominios recién registrados en Internet; par
 ## Características
 - Nombres de dominio ordenados alfabéticamente, sin duplicados con el día anterior.
 - Los registros de dominio son extraídos de multiples fuentes: registradores, WHOIS APIs y web scraping.
-- Incluye registros de [989 dominios de nivel superior](https://github.com/nicotechtips/nitt-sec-nrd/blob/main/TLDs.txt):
+- Incluye registros de [989 dominios de nivel superior](https://github.com/nicotechtips/nitt-sec-nrd/blob/main/tlds.txt):
   - Algunos dominios de nivel superior pueden presentar un desface de hasta 72 horas en sus registros.
   - Algunos dominios geográficos de nivel superior actualizan muy pocas veces al mes sus registros y pueden incluir renovaciones.
